@@ -1,0 +1,12 @@
+{
+  "name": "learning_operators",
+  "version": "1.0.0",
+  "description": "In this i had done about variables and primitive data types of typescript & further more i had learn about the operators in typescript,there are different types of operators which i mention in this code.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dua Majeed",
+  "license": "ISC"
+}
